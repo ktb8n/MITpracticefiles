@@ -1,0 +1,25 @@
+{
+  "name": "mymdnexpresstutorial",
+  "version": "1.0.0",
+  "description": "Following MDN Express tutorial on https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ktb8n/MITpracticefiles.git"
+  },
+  "author": "ktb8n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktb8n/MITpracticefiles/issues"
+  },
+  "homepage": "https://github.com/ktb8n/MITpracticefiles#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
